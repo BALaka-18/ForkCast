@@ -101,3 +101,37 @@ docs/                  requirements, architecture, decisions, guides
 | Milestones | [docs/MILESTONES.md](docs/MILESTONES.md) |
 
 The app's design is unofficial. It does not use or imitate an official Firehouse Ministries logo.
+
+## Image Gallery
+
+Login screen
+
+![Login screen](img/login.png)
+
+Admin View
+
+![Admin screen](img/admin_view.png)
+
+Volunteer's choices on login (Volunteer View)
+
+![Volunteer View](img/volunteer_choices.png)
+
+Volunteer View - Solo
+
+![Volunteer View - Solo](img/volunteer_view_solo.png)
+
+Volunteer View - As part of org
+
+![Volunteer View - Org](img/volunteer_view_org.png)
+
+Volunteer Choice - Donate Groceries for a meal
+
+![Volunteer Choice - Donate Groceries for a meal](img/donate_groceries.png)
+
+Volunteer Choice - Volunteer to serve food
+
+![Volunteer Choice - Volunteer to serve food](img/serve_food.png)
+
+Volunteer Commitments
+
+![Volunteer Commitments](img/volunteer_commitments.png)
